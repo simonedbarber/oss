@@ -11,7 +11,7 @@ import (
 	"time"
 
 	aliyun "github.com/aliyun/aliyun-oss-go-sdk/oss"
-	"github.com/qor/oss"
+	"github.com/simonedbarber/oss"
 )
 
 // Client Aliyun storage

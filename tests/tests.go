@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/qor/oss"
+	"github.com/simonedbarber/oss"
 )
 
 func TestAll(storage oss.StorageInterface, t *testing.T) {
